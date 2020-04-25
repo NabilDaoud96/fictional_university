@@ -54,7 +54,7 @@ get_header();?>
             <p>For the 100th year in a row we are voted #1. <a href="#" class="nu gray">Read more</a></p>
           </div>
         </div>
-        <div class="event-summary">
+        <div class="event-summary ">
           <a class="event-summary__date event-summary__date--beige t-center" href="#">
             <span class="event-summary__month">Feb</span>
             <span class="event-summary__day">04</span>  
