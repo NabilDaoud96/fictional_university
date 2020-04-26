@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8e9d36-1280-4a23-824e-5a6096fe6bc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictionalUniversity/page.php" afterDir="false" />
-    </list>
+    <list default="true" id="9d8e9d36-1280-4a23-824e-5a6096fe6bc2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
@@ -63,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-889">
+            <state relative-caret-position="-530">
               <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
@@ -185,12 +179,12 @@
       <workItem from="1587830885301" duration="343000" />
       <workItem from="1587831251602" duration="22000" />
       <workItem from="1587831293483" duration="671000" />
-      <workItem from="1587844547908" duration="5207000" />
+      <workItem from="1587844547908" duration="5754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12156000" />
+    <option name="totallyTimeSpent" value="12703000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,7 +199,7 @@
     <frame x="-6" y="0" width="1290" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.1736672" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.1736672" />
       <window_info id="Structure" order="1" sideWeight="0.50092083" side_tool="true" weight="0.17124394" />
       <window_info id="Favorites" order="2" sideWeight="0.50092083" side_tool="true" weight="0.17124394" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,27 +219,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.1914378" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1615509" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -350,10 +323,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-889">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="368">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#142#226#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -364,13 +340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictionalUniversity/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding>
-            <element signature="e#142#226#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="-530">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
