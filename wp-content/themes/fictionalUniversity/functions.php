@@ -14,6 +14,8 @@
 		register_nav_menu('footerLocationTwo', 'Footer Location Two');*/
 	}
 
-	add_action('after_setup_theme','university_features')
+	add_action('after_setup_theme','university_features');
+
+
 ?>
 
