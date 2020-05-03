@@ -14,6 +14,9 @@ function university_post_types() {
         'rewrite' => array(
             'slug' => 'events',
         ),
+        'supports' => array(
+            'title', 'editor', 'excerpt'
+        ),
     ));
 }
 add_action('init','university_post_types');

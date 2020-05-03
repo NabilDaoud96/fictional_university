@@ -16,6 +16,5 @@
 
 	add_action('after_setup_theme','university_features');
 
-
-?>
+    flush_rewrite_rules( false );
 
