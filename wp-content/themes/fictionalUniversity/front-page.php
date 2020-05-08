@@ -18,9 +18,9 @@ get_header();?>
                     $today = date('Ymd');
                     $homePageEvents = new WP_Query(array(
                         'post_type' => 'event',
-                        'posts_per_page' => -1,
+                        'posts_per_page' => 2,
                         'meta_key' => 'event_date',
-                        'orderBy' => 'meta_value_num',
+                        'orderby' => 'meta_value_num',
                         'order' => 'ASC',
                         'meta_query' => array(
                             array(
