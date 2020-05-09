@@ -20,6 +20,22 @@ function university_post_types() {
         ),
     ));
 
+    // Professor Post Type
+    register_post_type('professor', array(
+        'public' => true,
+        'menu_icon'   => 'dashicons-welcome-learn-more',
+        'labels' => array(
+            'name' => 'Professors',
+            'singular_name' => 'Professor',
+            'add_new_item' => 'Add New Professor',
+            'edit_item' => 'Edit Professor',
+            'all_items' => 'All Professors',
+        ),
+        'supports' => array(
+            'title', 'editor',
+        ),
+    ));
+
     // Program Post Type
     register_post_type('program', array(
         'has_archive' => true,
