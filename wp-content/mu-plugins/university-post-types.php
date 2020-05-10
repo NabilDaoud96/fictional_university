@@ -32,7 +32,7 @@ function university_post_types() {
             'all_items' => 'All Professors',
         ),
         'supports' => array(
-            'title', 'editor',
+            'title', 'editor', 'thumbnail'
         ),
     ));
 
