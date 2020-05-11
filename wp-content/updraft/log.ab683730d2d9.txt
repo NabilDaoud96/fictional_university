@@ -1,0 +1,215 @@
+0000.001 (0) Opened log file at time: Mon, 11 May 2020 01:13:56 +0000 on http://localhost/fictional_university
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4 PHP: 7.2.10 (apache2handler, Windows NT NABIL 10.0 build 17763 (Windows 10) AMD64) MySQL: 5.7.23 WPLANG: en_US Server: Apache/2.4.35 (Win64) PHP/7.2.10 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 187568.9 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.013 (0) Semaphore (fd, wp_options) being initialised
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Set semaphore last lock (fd) time to 2020-05-11 01:13:56
+0000.018 (0) Semaphore lock (fd) complete
+0000.021 (0) Backup run: resumption=0, nonce=ab683730d2d9, file_nonce=ab683730d2d9 begun at=1589159636 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1589159936) in case this run gets aborted
+0000.041 (0) Checking if we have a zip executable available
+0000.044 (0) Creation of backups of directories: beginning
+0000.049 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.784 (0) Total entities for the zip file: 437 directories, 2442 files (0 skipped as non-modified), 38.9 MB
+0002.642 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 98 (98) files added so far); re-opening (prior size: 0 KB)
+0002.869 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 100 files added (on-disk size: 602.4 KB)
+0004.182 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 200 files added (on-disk size: 602.4 KB)
+0004.936 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 300 files added (on-disk size: 602.4 KB)
+0005.000 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 400 files added (on-disk size: 602.4 KB)
+0005.042 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 500 files added (on-disk size: 602.4 KB)
+0005.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.3 MB, 2442 files batched, 501 (599) added so far); re-opening (prior size: 602.4 KB)
+0005.868 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 600 files added (on-disk size: 4092.6 KB)
+0005.908 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 700 files added (on-disk size: 4092.6 KB)
+0005.949 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 800 files added (on-disk size: 4092.6 KB)
+0005.991 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 900 files added (on-disk size: 4092.6 KB)
+0006.031 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1000 files added (on-disk size: 4092.6 KB)
+0006.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 2442 files batched, 501 (1100) added so far); re-opening (prior size: 4092.6 KB)
+0007.187 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1100 files added (on-disk size: 8061.3 KB)
+0007.235 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1200 files added (on-disk size: 8061.3 KB)
+0007.276 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1300 files added (on-disk size: 8061.3 KB)
+0007.317 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1400 files added (on-disk size: 8061.3 KB)
+0007.362 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1500 files added (on-disk size: 8061.3 KB)
+0007.403 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1600 files added (on-disk size: 8061.3 KB)
+0007.405 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 2442 files batched, 501 (1601) added so far); re-opening (prior size: 8061.3 KB)
+0007.762 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1700 files added (on-disk size: 8945.8 KB)
+0007.813 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1800 files added (on-disk size: 8945.8 KB)
+0007.856 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 1900 files added (on-disk size: 8945.8 KB)
+0007.896 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 2000 files added (on-disk size: 8945.8 KB)
+0007.936 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 2100 files added (on-disk size: 8945.8 KB)
+0007.938 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 2442 files batched, 501 (2102) added so far); re-opening (prior size: 8945.8 KB)
+0008.325 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 2200 files added (on-disk size: 10276 KB)
+0008.364 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 2300 files added (on-disk size: 10276 KB)
+0008.406 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip.tmp: 2400 files added (on-disk size: 10276 KB)
+0009.708 (0) Created plugins zip (0) - 12020.9 KB in 9.7 s (1245 KB/s) (sha1: 132d60e196763d7bd9be3e31a825897d2fa93056, sha256: e3f9c8444d42202d328ff10c0aa40123a05fd053e5974d36d526a8f1916b7340)
+0009.711 (0) Beginning creation of dump of themes (split every: 400 MB)
+0009.797 (0) Total entities for the zip file: 57 directories, 268 files (0 skipped as non-modified), 4.9 MB
+0010.773 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.780 (0) Zip: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.641 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 258 (258) files added so far); re-opening (prior size: 0 KB)
+0013.139 (0) Created themes zip (0) - 2958.5 KB in 3.4 s (863.9 KB/s) (sha1: 4c52d7040f8f1054db31e0a3e5eaa79104ecc323, sha256: 2d45e26a36b4c527ddec23ccc3a73ded893b13657ecbf4045c3e30a93a21dd9b)
+0013.142 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.143 (0) Looking for candidates to backup in: C:\wamp64\www\fictional_university/wp-content/uploads
+0013.144 (0) finding files: 2020: adding to list (1)
+0013.145 (0) finding files: wp-file-manager-pro: adding to list (2)
+0013.146 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.160 (0) Total entities for the zip file: 5 directories, 14 files (0 skipped as non-modified), 0.1 MB
+0013.215 (0) Created uploads zip (0) - 88.3 KB in 0.1 s (1329.8 KB/s) (sha1: bcbf6034eb922be8cbc0e0ca056c80f18e7045a9, sha256: b507f40a2ee95b3eef1a0cd036a11eab4e84b0008e2575c46fc4249fcecbdf2d)
+0013.219 (0) Beginning backup of other directories found in the content directory (index: 0)
+0013.220 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0013.221 (0) Looking for candidates to backup in: C:\wamp64\www\fictional_university/wp-content
+0013.221 (0) finding files: ewww: adding to list (1)
+0013.222 (0) finding files: index.php: adding to list (2)
+0013.223 (0) finding files: mu-plugins: adding to list (3)
+0013.224 (0) finding files: plugins: skipping: this is the plugins directory
+0013.225 (0) finding files: themes: skipping: this is the themes directory
+0013.225 (0) finding files: updraft: skipping: this is the updraft directory
+0013.226 (0) finding files: upgrade: skipping: excluded by options
+0013.227 (0) finding files: uploads: skipping: this is the uploads directory
+0013.249 (0) Total entities for the zip file: 2 directories, 2 files (0 skipped as non-modified), 0 MB
+0013.267 (0) Created others zip (0) - 0.9 KB in 0 s (23.1 KB/s) (sha1: 051009286d6ef3e93bcffc021600be906ddf27ea, sha256: 0ff7e437c404bedde45b1b3b7a94a88289906068fd6271c2eb5d2e402c10dab0)
+0013.272 (0) Saving backup status to database (elements: 8)
+0013.274 (0) Beginning creation of database dump (WordPress DB)
+0013.373 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0013.530 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n SET character_set_client = utf8mb4 ;\nCREATE TAB (truncated - 1310 bytes total)
+0013.532 (0) Binary mysqldump: error (code: 2)
+0013.623 (0) Table wp_options: Total expected rows (approximate): 264
+0013.657 (0) Table wp_options: Total rows added: 260 in 0.03 seconds
+0013.663 (0) Table wp_options: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_options.table.gz - 144.4 KB)
+0013.668 (0) Table wp_users: Total expected rows (approximate): 1
+0013.670 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0013.681 (0) Table wp_users: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_users.table.gz - 0.6 KB)
+0013.687 (0) Table wp_usermeta: Total expected rows (approximate): 24
+0013.689 (0) Table wp_usermeta: Total rows added: 24 in 0.00 seconds
+0013.696 (0) Table wp_usermeta: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_usermeta.table.gz - 1.1 KB)
+0013.701 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0013.703 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0013.708 (0) Table wp_commentmeta: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0013.714 (0) Table wp_comments: Total expected rows (approximate): 1
+0013.716 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0013.722 (0) Table wp_comments: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_comments.table.gz - 0.7 KB)
+0013.733 (0) Table wp_links: Total expected rows (approximate): 0
+0013.736 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0013.741 (0) Table wp_links: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_links.table.gz - 0.4 KB)
+0013.746 (0) Table wp_postmeta: Total expected rows (approximate): 305
+0013.753 (0) Table wp_postmeta: Total rows added: 305 in 0.01 seconds
+0013.759 (0) Table wp_postmeta: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_postmeta.table.gz - 3.5 KB)
+0013.765 (0) Table wp_posts: Total expected rows (approximate): 89
+0013.776 (0) Table wp_posts: Total rows added: 89 in 0.01 seconds
+0013.782 (0) Table wp_posts: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_posts.table.gz - 7.5 KB)
+0013.788 (0) Table wp_term_relationships: Total expected rows (approximate): 17
+0013.790 (0) Table wp_term_relationships: Total rows added: 17 in 0.00 seconds
+0013.796 (0) Table wp_term_relationships: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0013.801 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0013.804 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.00 seconds
+0013.809 (0) Table wp_term_taxonomy: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0013.820 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0013.822 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0013.828 (0) Table wp_termmeta: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_termmeta.table.gz - 0.4 KB)
+0013.833 (0) Table wp_terms: Total expected rows (approximate): 7
+0013.836 (0) Table wp_terms: Total rows added: 7 in 0.00 seconds
+0013.841 (0) Table wp_terms: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_terms.table.gz - 0.5 KB)
+0013.847 (0) Table wp_ewwwio_images: Total expected rows (approximate): 0
+0013.849 (0) Table wp_ewwwio_images: Total rows added: 0 in 0.00 seconds
+0013.854 (0) Table wp_ewwwio_images: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_ewwwio_images.table.gz - 0.5 KB)
+0013.860 (0) Table wp_ewwwio_queue: Total expected rows (approximate): 0
+0013.862 (0) Table wp_ewwwio_queue: Total rows added: 0 in 0.00 seconds
+0013.867 (0) Table wp_ewwwio_queue: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_ewwwio_queue.table.gz - 0.3 KB)
+0013.874 (0) Table wp_rtg_attachments: Total expected rows (approximate): 2
+0013.876 (0) Table wp_rtg_attachments: Total rows added: 2 in 0.00 seconds
+0013.881 (0) Table wp_rtg_attachments: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_rtg_attachments.table.gz - 0.4 KB)
+0013.887 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0013.889 (0) Table wp_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0013.895 (0) Table wp_wpfm_backup: finishing file (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_wpfm_backup.table.gz - 0.3 KB)
+0013.900 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_options.table.gz (1/16): adding to final database dump
+0013.926 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_users.table.gz (2/16): adding to final database dump
+0013.928 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_usermeta.table.gz (3/16): adding to final database dump
+0013.929 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_commentmeta.table.gz (4/16): adding to final database dump
+0013.931 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_comments.table.gz (5/16): adding to final database dump
+0013.932 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_links.table.gz (6/16): adding to final database dump
+0013.933 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_postmeta.table.gz (7/16): adding to final database dump
+0013.936 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_posts.table.gz (8/16): adding to final database dump
+0013.939 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_term_relationships.table.gz (9/16): adding to final database dump
+0013.940 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_term_taxonomy.table.gz (10/16): adding to final database dump
+0013.941 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_termmeta.table.gz (11/16): adding to final database dump
+0013.942 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_terms.table.gz (12/16): adding to final database dump
+0013.943 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_ewwwio_images.table.gz (13/16): adding to final database dump
+0013.945 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_ewwwio_queue.table.gz (14/16): adding to final database dump
+0013.946 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_rtg_attachments.table.gz (15/16): adding to final database dump
+0013.947 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db-table-wp_wpfm_backup.table.gz (16/16): adding to final database dump
+0013.950 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz: finished writing out complete database file (136 KB)
+0013.964 (0) Total database tables backed up: 16 (backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz, size: 161880, sha1: 0d143b35517ebcf42c059b64e71829e29a45f07a, sha256: 04af3b9953b03f17efd8df2a2d3817d7b2916ef83b61f95f5a73a025f0299dcc)
+0013.972 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0013.975 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0013.976 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0013.977 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-others.zip: others: This file has not yet been successfully uploaded: will queue
+0013.978 (0) backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz: db: This file has not yet been successfully uploaded: will queue
+0013.979 (0) Saving backup history. Total backup size: 14.9 MB
+0013.982 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0013.985 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0013.988 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-729cf8c29fd56f10805aaa2768e49643)
+0015.411 (0) Google Drive: creating path: /UpdraftPlus
+0017.861 (0) Google Drive: quota usage: used=997.8 MB, total=15360 MB, available=14362.2 MB
+0017.864 (0) Google Drive: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0033.979 (0) Googledrive chunked upload: 8.5 % uploaded (1048576)
+0049.611 (0) Googledrive chunked upload: 17 % uploaded (2097152)
+0064.949 (0) Googledrive chunked upload: 25.6 % uploaded (3145728)
+0080.565 (0) Googledrive chunked upload: 34.1 % uploaded (4194304)
+0095.825 (0) Googledrive chunked upload: 42.6 % uploaded (5242880)
+0113.732 (0) Googledrive chunked upload: 51.1 % uploaded (6291456)
+0131.095 (0) Googledrive chunked upload: 59.6 % uploaded (7340032)
+0146.766 (0) Googledrive chunked upload: 68.1 % uploaded (8388608)
+0162.016 (0) Googledrive chunked upload: 76.7 % uploaded (9437184)
+0176.938 (0) Googledrive chunked upload: 85.2 % uploaded (10485760)
+0192.130 (0) Googledrive chunked upload: 93.7 % uploaded (11534336)
+0204.547 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+0204.550 (0) Google Drive: OK: Archive backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip uploaded in 186.68 seconds
+0204.551 (0) Recording as successfully uploaded: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip
+0204.554 (0) Deleting local file: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-plugins.zip: OK
+0205.162 (0) Google Drive: quota usage: used=1009.5 MB, total=15360 MB, available=14350.5 MB
+0205.163 (0) Google Drive: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0220.087 (0) Googledrive chunked upload: 34.6 % uploaded (1048576)
+0234.818 (0) Googledrive chunked upload: 69.2 % uploaded (2097152)
+0249.481 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0249.486 (0) Google Drive: OK: Archive backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip uploaded in 44.32 seconds
+0249.487 (0) Recording as successfully uploaded: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip
+0249.491 (0) Deleting local file: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-themes.zip: OK
+0250.044 (0) Google Drive: quota usage: used=1012.4 MB, total=15360 MB, available=14347.6 MB
+0250.045 (0) Google Drive: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-uploads.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0252.616 (0) Googledrive chunked upload: 100 % uploaded
+0252.620 (0) Google Drive: OK: Archive backup_2020-05-11-0113_Fictional_University_ab683730d2d9-uploads.zip uploaded in 2.57 seconds
+0252.621 (0) Recording as successfully uploaded: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-uploads.zip
+0252.624 (0) Deleting local file: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-uploads.zip: OK
+0253.676 (0) Google Drive: quota usage: used=1012.5 MB, total=15360 MB, available=14347.5 MB
+0253.678 (0) Google Drive: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-others.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0255.391 (0) The scheduled resumption is within 45 seconds - will reschedule
+0255.393 (0) Rescheduling resumption 1: moving to 345 seconds from now (1589160236)
+0255.397 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0255.397 (0) Googledrive chunked upload: 100 % uploaded
+0255.401 (0) Google Drive: OK: Archive backup_2020-05-11-0113_Fictional_University_ab683730d2d9-others.zip uploaded in 1.72 seconds
+0255.402 (0) Recording as successfully uploaded: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-others.zip
+0255.405 (0) Deleting local file: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-others.zip: OK
+0255.961 (0) Google Drive: quota usage: used=1012.5 MB, total=15360 MB, available=14347.5 MB
+0255.962 (0) Google Drive: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0259.336 (0) Googledrive chunked upload: 100 % uploaded
+0259.341 (0) Google Drive: OK: Archive backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz uploaded in 3.38 seconds
+0259.341 (0) Recording as successfully uploaded: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz
+0259.344 (0) Deleting local file: backup_2020-05-11-0113_Fictional_University_ab683730d2d9-db.gz: OK
+0259.349 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0259.351 (0) Number of backup sets in history: 1; groups (db): 1
+0259.352 (0) Examining (for databases) backup set with group_id=0, nonce=ab683730d2d9, datestamp=1589159636 (May 11 2020 01:13:56)
+0259.354 (0) This backup set is the backup set just made, so will not be deleted.
+0259.354 (0) Number of backup sets in history: 1; groups (files): 1
+0259.355 (0) Examining (for files) backup set with nonce=ab683730d2d9, datestamp=1589159636 (May 11 2020 01:13:56)
+0259.355 (0) This backup set is the backup set just made, so will not be deleted.
+0259.357 (0) This backup set is the backup set just made, so will not be deleted.
+0259.357 (0) This backup set is the backup set just made, so will not be deleted.
+0259.358 (0) This backup set is the backup set just made, so will not be deleted.
+0259.358 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0259.360 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0259.363 (0) Resume backup (ab683730d2d9, 0): finish run
+0259.365 (0) Decremented the semaphore (fd) by 1
+0259.366 (0) Semaphore (fd) unlocked
+0259.367 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0259.370 (0) No email will/can be sent - the user has not configured an email address.
+0259.371 (0) The backup apparently succeeded and is now complete

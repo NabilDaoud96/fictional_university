@@ -34,10 +34,11 @@ function university_post_types() {
         'supports' => array(
             'title', 'editor', 'thumbnail'
         ),
+
     ));
 
     // Program Post Type
-    register_post_type('program', array(
+    register_post_type('programme', array(
         'has_archive' => true,
         'public' => true,
         'menu_icon'   => 'dashicons-awards',
