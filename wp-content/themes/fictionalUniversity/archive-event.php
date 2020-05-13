@@ -1,15 +1,11 @@
 <?php
-get_header();?>
-
-    <div class="page-banner">
-        <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('images/ocean.jpg') ?>);"></div>
-        <div class="page-banner__content container container--narrow">
-            <h1 class="page-banner__title">All Events</h1>
-            <div class="page-banner__intro">
-                <p>See what is going on in our world.</p>
-            </div>
-        </div>
-    </div>
+get_header();
+        pageBanner(array(
+            'title' => 'All Events',
+            'subtitle' => 'welcome to our events',
+            'photo' => 'https://images.unsplash.com/photo-1468259275383-c4f1b88d5772?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
+        ));
+    ?>
 
     <div class="container container--narrow page-section">
         <?php while (have_posts()) {
