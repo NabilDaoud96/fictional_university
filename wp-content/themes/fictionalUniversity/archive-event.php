@@ -2,7 +2,7 @@
 get_header();
         pageBanner(array(
             'title' => 'All Events',
-            'subtitle' => 'welcome to our events',
+            'subtitle' => 'See what is going on in our world',
             'photo' => 'https://images.unsplash.com/photo-1468259275383-c4f1b88d5772?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
         ));
     ?>
