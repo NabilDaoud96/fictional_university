@@ -75,5 +75,12 @@
         </div>
     <?php }
 
+    function universityMapKey ($api) {
+	    $api['key'] = 'AIzaSyA6ETBH0odrlmfwABNeCmiciSZw3x7SFQQ';
+	    return $api;
+    }
+
+    add_filter('acf/fields/google_map/api', 'universityMapKey');
+	
     flush_rewrite_rules( false );
 
