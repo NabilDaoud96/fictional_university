@@ -13,9 +13,8 @@ pageBanner(array(
                 $mapLocation = get_field('map_location')
             ?>
                 <li><a href="<?php the_permalink() ?>"><?php the_title() ?></a></li>
-                <div <?php echo $mapLocation ?></div>
+                <div <?php echo $mapLocation ?>></div>
             <?php }
-            echo paginate_links()
             ?>
         </div>
     </div>
