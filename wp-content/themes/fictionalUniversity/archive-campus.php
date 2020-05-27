@@ -10,10 +10,10 @@ pageBanner(array(
         <div class="acf-map">
             <?php while (have_posts()) {
                 the_post();
-                $mapLocation = get_field('map_location')
-            ?>
+                $mapLocation = get_field('map_location');
+                ?>
                 <li><a href="<?php the_permalink() ?>"><?php the_title() ?></a></li>
-                <div <?php echo $mapLocation ?>></div>
+                <div class="marker"><?php echo $mapLocation ?></div>
             <?php }
             ?>
         </div>

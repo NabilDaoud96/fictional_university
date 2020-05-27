@@ -24,7 +24,7 @@ while (have_posts()) {
 
         <div class="acf-map">
             <?php $mapLocation = get_field('map_location') ?>
-            <div <?php echo $mapLocation ?>></div>
+            <div><?php echo $mapLocation ?></div>
         </div>
 
         <?php

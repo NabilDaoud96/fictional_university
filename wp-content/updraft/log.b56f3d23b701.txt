@@ -1,0 +1,529 @@
+0000.001 (0) Opened log file at time: Wed, 27 May 2020 17:17:12 +0000 on http://localhost/fictional_university
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.10 (apache2handler, Windows NT NABIL 10.0 build 17763 (Windows 10) AMD64) MySQL: 5.7.23 WPLANG: en_US Server: Apache/2.4.35 (Win64) PHP/7.2.10 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.2M | 8M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 168873.7 MB
+0000.018 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.020 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.218 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1589876404, seconds_ago=723428)
+0000.220 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-05-27 17:17:12
+0000.221 (0) Semaphore (fd, wp_options) reset to 1
+0000.223 (0) Set semaphore last lock (fd) time to 2020-05-27 17:17:12
+0000.223 (0) Semaphore lock (fd) complete
+0000.229 (0) Backup run: resumption=0, nonce=b56f3d23b701, file_nonce=b56f3d23b701 begun at=1590599832 (0s ago), job type=backup
+0000.231 (0) Scheduling a resumption (1) after 300 seconds (1590600132) in case this run gets aborted
+0000.264 (0) Checking if we have a zip executable available
+0000.266 (0) Creation of backups of directories: beginning
+0000.288 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.849 (0) Total entities for the zip file: 270 directories, 1735 files (0 skipped as non-modified), 33.4 MB
+0002.030 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.483 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 135 (135) files added so far); re-opening (prior size: 0 KB)
+0003.032 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 200 files added (on-disk size: 1092 KB)
+0004.450 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 300 files added (on-disk size: 1092 KB)
+0005.398 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 400 files added (on-disk size: 1092 KB)
+0005.480 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 MB, 294 (429) files added so far); re-opening (prior size: 1092 KB)
+0006.689 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 500 files added (on-disk size: 3383.8 KB)
+0008.427 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 600 files added (on-disk size: 3383.8 KB)
+0008.505 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 172 (601) files added so far); re-opening (prior size: 3383.8 KB)
+0010.077 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 700 files added (on-disk size: 4416.6 KB)
+0011.484 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.6 MB, 178 (779) files added so far); re-opening (prior size: 4416.6 KB)
+0014.315 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 800 files added (on-disk size: 8163 KB)
+0015.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 114 (893) files added so far); re-opening (prior size: 8163 KB)
+0015.816 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 900 files added (on-disk size: 8315.7 KB)
+0016.917 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1000 files added (on-disk size: 8315.7 KB)
+0018.482 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 197 (1090) files added so far); re-opening (prior size: 8315.7 KB)
+0019.059 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1100 files added (on-disk size: 8537.7 KB)
+0020.255 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1200 files added (on-disk size: 8537.7 KB)
+0021.456 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1300 files added (on-disk size: 8537.7 KB)
+0021.486 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 213 (1303) files added so far); re-opening (prior size: 8537.7 KB)
+0023.501 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1400 files added (on-disk size: 8916.3 KB)
+0024.491 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 142 (1445) files added so far); re-opening (prior size: 8916.3 KB)
+0024.769 (0) PHP event: code E_WARNING: ZipArchive::close(): Renaming temporary file failed: Permission denied (line 3074, C:\wamp64\www\fictional_university\wp-content\plugins\updraftplus\backup.php)
+0024.960 (0) The attempt to close the zip file returned an error (Unknown: ZipArchive does not return error messages). List of files we were trying to add follows (check their permissions).
+0024.962 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Exception/ValidationException.php (exists: 1, is_readable: 1 size: 571)
+0024.962 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/AbstractResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 1082)
+0024.963 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/CompositeResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 1842)
+0024.963 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/MapResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 938)
+0024.963 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/Model.php (exists: 1, is_readable: 1 size: 2126)
+0024.963 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIterator.php (exists: 1, is_readable: 1 size: 7770)
+0024.963 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorApplyBatched.php (exists: 1, is_readable: 1 size: 3522)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorClassFactory.php (exists: 1, is_readable: 1 size: 2052)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorFactoryInterface.php (exists: 1, is_readable: 1 size: 819)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorInterface.php (exists: 1, is_readable: 1 size: 1856)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/composer.json (exists: 1, is_readable: 1 size: 796)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php (exists: 1, is_readable: 1 size: 9760)
+0024.964 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/Stream.php (exists: 1, is_readable: 1 size: 7742)
+0024.965 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/StreamInterface.php (exists: 1, is_readable: 1 size: 4882)
+0024.965 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/StreamRequestFactoryInterface.php (exists: 1, is_readable: 1 size: 883)
+0024.965 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/UPGRADING.md (exists: 1, is_readable: 1 size: 22063)
+0024.965 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.0.md (exists: 1, is_readable: 1 size: 940)
+0024.966 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.1.md (exists: 1, is_readable: 1 size: 2354)
+0024.966 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.2.md (exists: 1, is_readable: 1 size: 1964)
+0024.966 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/composer.json (exists: 1, is_readable: 1 size: 1963)
+0024.966 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/Gemfile (exists: 1, is_readable: 1 size: 89)
+0024.967 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/LICENSE (exists: 1, is_readable: 1 size: 1087)
+0024.967 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/package.json (exists: 1, is_readable: 1 size: 394)
+0024.967 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/README.md (exists: 1, is_readable: 1 size: 10842)
+0024.967 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCache.php (exists: 1, is_readable: 1 size: 4483)
+0024.967 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollection.php (exists: 1, is_readable: 1 size: 6135)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollectionInterface.php (exists: 1, is_readable: 1 size: 1771)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetInterface.php (exists: 1, is_readable: 1 size: 4420)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetReference.php (exists: 1, is_readable: 1 size: 3565)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/BaseAsset.php (exists: 1, is_readable: 1 size: 4539)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/FileAsset.php (exists: 1, is_readable: 1 size: 2451)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/GlobAsset.php (exists: 1, is_readable: 1 size: 2891)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/HttpAsset.php (exists: 1, is_readable: 1 size: 2485)
+0024.968 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionFilterIterator.php (exists: 1, is_readable: 1 size: 2451)
+0024.969 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionIterator.php (exists: 1, is_readable: 1 size: 3314)
+0024.969 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/StringAsset.php (exists: 1, is_readable: 1 size: 1374)
+0024.969 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/AssetManager.php (exists: 1, is_readable: 1 size: 2105)
+0024.969 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/AssetWriter.php (exists: 1, is_readable: 1 size: 2647)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ApcCache.php (exists: 1, is_readable: 1 size: 1342)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ArrayCache.php (exists: 1, is_readable: 1 size: 1149)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/CacheInterface.php (exists: 1, is_readable: 1 size: 1180)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ConfigCache.php (exists: 1, is_readable: 1 size: 3231)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ExpiringCache.php (exists: 1, is_readable: 1 size: 1366)
+0024.970 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/FilesystemCache.php (exists: 1, is_readable: 1 size: 1554)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Exception/Exception.php (exists: 1, is_readable: 1 size: 401)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Exception/FilterException.php (exists: 1, is_readable: 1 size: 1798)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticExtension.php (exists: 1, is_readable: 1 size: 2258)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterFunction.php (exists: 1, is_readable: 1 size: 677)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterInvoker.php (exists: 1, is_readable: 1 size: 1398)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterNode.php (exists: 1, is_readable: 1 size: 668)
+0024.971 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticNode.php (exists: 1, is_readable: 1 size: 5236)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticTokenParser.php (exists: 1, is_readable: 1 size: 8419)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigFormulaLoader.php (exists: 1, is_readable: 1 size: 3581)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigResource.php (exists: 1, is_readable: 1 size: 1341)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/ValueContainer.php (exists: 1, is_readable: 1 size: 1888)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/AssetFactory.php (exists: 1, is_readable: 1 size: 12873)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php (exists: 1, is_readable: 1 size: 5489)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/BasePhpFormulaLoader.php (exists: 1, is_readable: 1 size: 5177)
+0024.972 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/CachedFormulaLoader.php (exists: 1, is_readable: 1 size: 2066)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FormulaLoaderInterface.php (exists: 1, is_readable: 1 size: 848)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FunctionCallsFormulaLoader.php (exists: 1, is_readable: 1 size: 1144)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/CoalescingDirectoryResource.php (exists: 1, is_readable: 1 size: 2838)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/DirectoryResource.php (exists: 1, is_readable: 1 size: 3326)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/FileResource.php (exists: 1, is_readable: 1 size: 1028)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/IteratorResourceInterface.php (exists: 1, is_readable: 1 size: 514)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/ResourceInterface.php (exists: 1, is_readable: 1 size: 1045)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/CacheBustingWorker.php (exists: 1, is_readable: 1 size: 1881)
+0024.973 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/EnsureFilterWorker.php (exists: 1, is_readable: 1 size: 1816)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/WorkerInterface.php (exists: 1, is_readable: 1 size: 860)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/AutoprefixerFilter.php (exists: 1, is_readable: 1 size: 2109)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseCssFilter.php (exists: 1, is_readable: 1 size: 1477)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseNodeFilter.php (exists: 1, is_readable: 1 size: 1015)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseProcessFilter.php (exists: 1, is_readable: 1 size: 1381)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CallablesFilter.php (exists: 1, is_readable: 1 size: 1544)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CleanCssFilter.php (exists: 1, is_readable: 1 size: 9334)
+0024.974 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CoffeeScriptFilter.php (exists: 1, is_readable: 1 size: 1982)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CompassFilter.php (exists: 1, is_readable: 1 size: 10855)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssCacheBustingFilter.php (exists: 1, is_readable: 1 size: 1534)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssEmbedFilter.php (exists: 1, is_readable: 1 size: 3806)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssImportFilter.php (exists: 1, is_readable: 1 size: 3641)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssMinFilter.php (exists: 1, is_readable: 1 size: 1718)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssRewriteFilter.php (exists: 1, is_readable: 1 size: 3641)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/DartFilter.php (exists: 1, is_readable: 1 size: 1748)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/DependencyExtractorInterface.php (exists: 1, is_readable: 1 size: 920)
+0024.975 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/EmberPrecompileFilter.php (exists: 1, is_readable: 1 size: 2716)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterCollection.php (exists: 1, is_readable: 1 size: 1915)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterInterface.php (exists: 1, is_readable: 1 size: 839)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/BaseCompilerFilter.php (exists: 1, is_readable: 1 size: 2636)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerApiFilter.php (exists: 1, is_readable: 1 size: 4706)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerJarFilter.php (exists: 1, is_readable: 1 size: 3384)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GssFilter.php (exists: 1, is_readable: 1 size: 4023)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/HandlebarsFilter.php (exists: 1, is_readable: 1 size: 2942)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/HashableInterface.php (exists: 1, is_readable: 1 size: 562)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegoptimFilter.php (exists: 1, is_readable: 1 size: 1965)
+0024.976 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegtranFilter.php (exists: 1, is_readable: 1 size: 2436)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinFilter.php (exists: 1, is_readable: 1 size: 823)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinPlusFilter.php (exists: 1, is_readable: 1 size: 839)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSqueezeFilter.php (exists: 1, is_readable: 1 size: 2100)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessFilter.php (exists: 1, is_readable: 1 size: 5294)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessphpFilter.php (exists: 1, is_readable: 1 size: 4376)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/MinifyCssCompressorFilter.php (exists: 1, is_readable: 1 size: 961)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/OptiPngFilter.php (exists: 1, is_readable: 1 size: 1879)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackagerFilter.php (exists: 1, is_readable: 1 size: 1685)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackerFilter.php (exists: 1, is_readable: 1 size: 1407)
+0024.977 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PhpCssEmbedFilter.php (exists: 1, is_readable: 1 size: 1249)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PngoutFilter.php (exists: 1, is_readable: 1 size: 3215)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/ReactJsxFilter.php (exists: 1, is_readable: 1 size: 2073)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/RooleFilter.php (exists: 1, is_readable: 1 size: 2140)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/BaseSassFilter.php (exists: 1, is_readable: 1 size: 2900)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/SassFilter.php (exists: 1, is_readable: 1 size: 4542)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/ScssFilter.php (exists: 1, is_readable: 1 size: 639)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SassphpFilter.php (exists: 1, is_readable: 1 size: 3715)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/ScssphpFilter.php (exists: 1, is_readable: 1 size: 4044)
+0024.978 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SeparatorFilter.php (exists: 1, is_readable: 1 size: 1063)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SprocketsFilter.php (exists: 1, is_readable: 1 size: 3954)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/StylusFilter.php (exists: 1, is_readable: 1 size: 3108)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/TypeScriptFilter.php (exists: 1, is_readable: 1 size: 2265)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyCssFilter.php (exists: 1, is_readable: 1 size: 3141)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJs2Filter.php (exists: 1, is_readable: 1 size: 3740)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJsFilter.php (exists: 1, is_readable: 1 size: 4129)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/BaseCompressorFilter.php (exists: 1, is_readable: 1 size: 3116)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/CssCompressorFilter.php (exists: 1, is_readable: 1 size: 689)
+0024.979 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/JsCompressorFilter.php (exists: 1, is_readable: 1 size: 1472)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/FilterManager.php (exists: 1, is_readable: 1 size: 1486)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/CssUtils.php (exists: 1, is_readable: 1 size: 4305)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/FilesystemUtils.php (exists: 1, is_readable: 1 size: 2301)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/LessUtils.php (exists: 1, is_readable: 1 size: 749)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/SassUtils.php (exists: 1, is_readable: 1 size: 504)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/TraversableString.php (exists: 1, is_readable: 1 size: 922)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/VarUtils.php (exists: 1, is_readable: 1 size: 2229)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/ValueSupplierInterface.php (exists: 1, is_readable: 1 size: 614)
+0024.980 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/functions.php (exists: 1, is_readable: 1 size: 3241)
+0024.980 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/appveyor.yml (exists: 1, is_readable: 1 size: 817)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/AUTHORS (exists: 1, is_readable: 1 size: 285)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/BACKERS.md (exists: 1, is_readable: 1 size: 305)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/composer.json (exists: 1, is_readable: 1 size: 2367)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/LICENSE (exists: 1, is_readable: 1 size: 1100)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php (exists: 1, is_readable: 1 size: 465)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php (exists: 1, is_readable: 1 size: 6397)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php (exists: 1, is_readable: 1 size: 103910)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php (exists: 1, is_readable: 1 size: 29791)
+0024.981 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php (exists: 1, is_readable: 1 size: 75558)
+0027.512 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 52 (1497) files added so far); re-opening (prior size: 8916.3 KB)
+0028.187 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1500 files added (on-disk size: 9176.4 KB)
+0029.561 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1600 files added (on-disk size: 9176.4 KB)
+0030.486 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 155 (1652) files added so far); re-opening (prior size: 9176.4 KB)
+0031.514 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1700 files added (on-disk size: 9328.2 KB)
+0032.650 (0) Error: makezip_addfiles returned false
+0032.652 (0) makezip_addfiles(UpdraftPlus_ZipArchive) apparently failed (file=backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp, type=plugins, size=9775325) - retrying with PclZip
+0032.971 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: Zip file already exists, with 1593 files
+0033.391 (0) Total entities for the zip file: 270 directories, 1735 files (0 skipped as non-modified), 33.4 MB
+0033.397 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 34196.8 KB, split: 409600 KB)
+0033.409 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 100 files added (on-disk size: 9546.2 KB)
+0033.419 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 200 files added (on-disk size: 9546.2 KB)
+0033.426 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 300 files added (on-disk size: 9546.2 KB)
+0033.434 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 400 files added (on-disk size: 9546.2 KB)
+0033.443 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 500 files added (on-disk size: 9546.2 KB)
+0033.466 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 600 files added (on-disk size: 9546.2 KB)
+0033.477 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 700 files added (on-disk size: 9546.2 KB)
+0033.484 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 800 files added (on-disk size: 9546.2 KB)
+0033.493 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 900 files added (on-disk size: 9546.2 KB)
+0033.503 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1000 files added (on-disk size: 9546.2 KB)
+0033.511 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1100 files added (on-disk size: 9546.2 KB)
+0033.518 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1200 files added (on-disk size: 9546.2 KB)
+0033.530 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1300 files added (on-disk size: 9546.2 KB)
+0033.645 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1400 files added (on-disk size: 9546.2 KB)
+0033.724 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1500 files added (on-disk size: 9546.2 KB)
+0033.740 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1600 files added (on-disk size: 9546.2 KB)
+0033.757 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp: 1700 files added (on-disk size: 9546.2 KB)
+0043.592 (0) [Warning] A zip error occurred - check your log for more details.
+0043.594 (0) The attempt to close the zip file returned an error (PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open archive 'C:\wamp64\www\fictional_university/wp-content/updraft/backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp' in wb mode). List of files we were trying to add follows (check their permissions).
+0043.597 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Exception/ValidationException.php (exists: 1, is_readable: 1 size: 571)
+0043.597 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/AbstractResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 1082)
+0043.598 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/CompositeResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 1842)
+0043.598 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/MapResourceIteratorFactory.php (exists: 1, is_readable: 1 size: 938)
+0043.599 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/Model.php (exists: 1, is_readable: 1 size: 2126)
+0043.599 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIterator.php (exists: 1, is_readable: 1 size: 7770)
+0043.599 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorApplyBatched.php (exists: 1, is_readable: 1 size: 3522)
+0043.600 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorClassFactory.php (exists: 1, is_readable: 1 size: 2052)
+0043.600 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorFactoryInterface.php (exists: 1, is_readable: 1 size: 819)
+0043.601 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorInterface.php (exists: 1, is_readable: 1 size: 1856)
+0043.601 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/composer.json (exists: 1, is_readable: 1 size: 796)
+0043.602 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php (exists: 1, is_readable: 1 size: 9760)
+0043.602 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/Stream.php (exists: 1, is_readable: 1 size: 7742)
+0043.603 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/StreamInterface.php (exists: 1, is_readable: 1 size: 4882)
+0043.603 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Stream/StreamRequestFactoryInterface.php (exists: 1, is_readable: 1 size: 883)
+0043.604 (0) File: plugins/updraftplus/vendor/guzzle/guzzle/UPGRADING.md (exists: 1, is_readable: 1 size: 22063)
+0043.604 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.0.md (exists: 1, is_readable: 1 size: 940)
+0043.605 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.1.md (exists: 1, is_readable: 1 size: 2354)
+0043.605 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/CHANGELOG-1.2.md (exists: 1, is_readable: 1 size: 1964)
+0043.606 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/composer.json (exists: 1, is_readable: 1 size: 1963)
+0043.607 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/Gemfile (exists: 1, is_readable: 1 size: 89)
+0043.607 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/LICENSE (exists: 1, is_readable: 1 size: 1087)
+0043.608 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/package.json (exists: 1, is_readable: 1 size: 394)
+0043.608 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/README.md (exists: 1, is_readable: 1 size: 10842)
+0043.609 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCache.php (exists: 1, is_readable: 1 size: 4483)
+0043.610 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollection.php (exists: 1, is_readable: 1 size: 6135)
+0043.610 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollectionInterface.php (exists: 1, is_readable: 1 size: 1771)
+0043.610 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetInterface.php (exists: 1, is_readable: 1 size: 4420)
+0043.611 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetReference.php (exists: 1, is_readable: 1 size: 3565)
+0043.611 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/BaseAsset.php (exists: 1, is_readable: 1 size: 4539)
+0043.612 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/FileAsset.php (exists: 1, is_readable: 1 size: 2451)
+0043.612 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/GlobAsset.php (exists: 1, is_readable: 1 size: 2891)
+0043.613 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/HttpAsset.php (exists: 1, is_readable: 1 size: 2485)
+0043.614 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionFilterIterator.php (exists: 1, is_readable: 1 size: 2451)
+0043.615 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionIterator.php (exists: 1, is_readable: 1 size: 3314)
+0043.615 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Asset/StringAsset.php (exists: 1, is_readable: 1 size: 1374)
+0043.616 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/AssetManager.php (exists: 1, is_readable: 1 size: 2105)
+0043.616 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/AssetWriter.php (exists: 1, is_readable: 1 size: 2647)
+0043.617 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ApcCache.php (exists: 1, is_readable: 1 size: 1342)
+0043.617 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ArrayCache.php (exists: 1, is_readable: 1 size: 1149)
+0043.618 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/CacheInterface.php (exists: 1, is_readable: 1 size: 1180)
+0043.618 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ConfigCache.php (exists: 1, is_readable: 1 size: 3231)
+0043.619 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/ExpiringCache.php (exists: 1, is_readable: 1 size: 1366)
+0043.619 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Cache/FilesystemCache.php (exists: 1, is_readable: 1 size: 1554)
+0043.620 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Exception/Exception.php (exists: 1, is_readable: 1 size: 401)
+0043.620 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Exception/FilterException.php (exists: 1, is_readable: 1 size: 1798)
+0043.621 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticExtension.php (exists: 1, is_readable: 1 size: 2258)
+0043.621 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterFunction.php (exists: 1, is_readable: 1 size: 677)
+0043.622 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterInvoker.php (exists: 1, is_readable: 1 size: 1398)
+0043.622 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterNode.php (exists: 1, is_readable: 1 size: 668)
+0043.623 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticNode.php (exists: 1, is_readable: 1 size: 5236)
+0043.623 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticTokenParser.php (exists: 1, is_readable: 1 size: 8419)
+0043.623 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigFormulaLoader.php (exists: 1, is_readable: 1 size: 3581)
+0043.624 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigResource.php (exists: 1, is_readable: 1 size: 1341)
+0043.624 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/ValueContainer.php (exists: 1, is_readable: 1 size: 1888)
+0043.625 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/AssetFactory.php (exists: 1, is_readable: 1 size: 12873)
+0043.625 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php (exists: 1, is_readable: 1 size: 5489)
+0043.626 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/BasePhpFormulaLoader.php (exists: 1, is_readable: 1 size: 5177)
+0043.626 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/CachedFormulaLoader.php (exists: 1, is_readable: 1 size: 2066)
+0043.627 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FormulaLoaderInterface.php (exists: 1, is_readable: 1 size: 848)
+0043.628 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FunctionCallsFormulaLoader.php (exists: 1, is_readable: 1 size: 1144)
+0043.628 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/CoalescingDirectoryResource.php (exists: 1, is_readable: 1 size: 2838)
+0043.629 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/DirectoryResource.php (exists: 1, is_readable: 1 size: 3326)
+0043.631 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/FileResource.php (exists: 1, is_readable: 1 size: 1028)
+0043.632 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/IteratorResourceInterface.php (exists: 1, is_readable: 1 size: 514)
+0043.633 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/ResourceInterface.php (exists: 1, is_readable: 1 size: 1045)
+0043.633 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/CacheBustingWorker.php (exists: 1, is_readable: 1 size: 1881)
+0043.634 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/EnsureFilterWorker.php (exists: 1, is_readable: 1 size: 1816)
+0043.635 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/WorkerInterface.php (exists: 1, is_readable: 1 size: 860)
+0043.636 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/AutoprefixerFilter.php (exists: 1, is_readable: 1 size: 2109)
+0043.636 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseCssFilter.php (exists: 1, is_readable: 1 size: 1477)
+0043.637 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseNodeFilter.php (exists: 1, is_readable: 1 size: 1015)
+0043.637 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseProcessFilter.php (exists: 1, is_readable: 1 size: 1381)
+0043.638 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CallablesFilter.php (exists: 1, is_readable: 1 size: 1544)
+0043.638 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CleanCssFilter.php (exists: 1, is_readable: 1 size: 9334)
+0043.639 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CoffeeScriptFilter.php (exists: 1, is_readable: 1 size: 1982)
+0043.639 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CompassFilter.php (exists: 1, is_readable: 1 size: 10855)
+0043.640 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssCacheBustingFilter.php (exists: 1, is_readable: 1 size: 1534)
+0043.640 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssEmbedFilter.php (exists: 1, is_readable: 1 size: 3806)
+0043.641 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssImportFilter.php (exists: 1, is_readable: 1 size: 3641)
+0043.641 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssMinFilter.php (exists: 1, is_readable: 1 size: 1718)
+0043.642 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssRewriteFilter.php (exists: 1, is_readable: 1 size: 3641)
+0043.642 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/DartFilter.php (exists: 1, is_readable: 1 size: 1748)
+0043.643 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/DependencyExtractorInterface.php (exists: 1, is_readable: 1 size: 920)
+0043.643 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/EmberPrecompileFilter.php (exists: 1, is_readable: 1 size: 2716)
+0043.644 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterCollection.php (exists: 1, is_readable: 1 size: 1915)
+0043.644 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterInterface.php (exists: 1, is_readable: 1 size: 839)
+0043.645 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/BaseCompilerFilter.php (exists: 1, is_readable: 1 size: 2636)
+0043.645 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerApiFilter.php (exists: 1, is_readable: 1 size: 4706)
+0043.646 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerJarFilter.php (exists: 1, is_readable: 1 size: 3384)
+0043.647 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/GssFilter.php (exists: 1, is_readable: 1 size: 4023)
+0043.648 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/HandlebarsFilter.php (exists: 1, is_readable: 1 size: 2942)
+0043.648 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/HashableInterface.php (exists: 1, is_readable: 1 size: 562)
+0043.649 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegoptimFilter.php (exists: 1, is_readable: 1 size: 1965)
+0043.650 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegtranFilter.php (exists: 1, is_readable: 1 size: 2436)
+0043.651 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinFilter.php (exists: 1, is_readable: 1 size: 823)
+0043.652 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinPlusFilter.php (exists: 1, is_readable: 1 size: 839)
+0043.653 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSqueezeFilter.php (exists: 1, is_readable: 1 size: 2100)
+0043.653 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessFilter.php (exists: 1, is_readable: 1 size: 5294)
+0043.655 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessphpFilter.php (exists: 1, is_readable: 1 size: 4376)
+0043.655 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/MinifyCssCompressorFilter.php (exists: 1, is_readable: 1 size: 961)
+0043.656 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/OptiPngFilter.php (exists: 1, is_readable: 1 size: 1879)
+0043.656 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackagerFilter.php (exists: 1, is_readable: 1 size: 1685)
+0043.656 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackerFilter.php (exists: 1, is_readable: 1 size: 1407)
+0043.657 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PhpCssEmbedFilter.php (exists: 1, is_readable: 1 size: 1249)
+0043.657 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/PngoutFilter.php (exists: 1, is_readable: 1 size: 3215)
+0043.658 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/ReactJsxFilter.php (exists: 1, is_readable: 1 size: 2073)
+0043.658 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/RooleFilter.php (exists: 1, is_readable: 1 size: 2140)
+0043.659 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/BaseSassFilter.php (exists: 1, is_readable: 1 size: 2900)
+0043.659 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/SassFilter.php (exists: 1, is_readable: 1 size: 4542)
+0043.660 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/ScssFilter.php (exists: 1, is_readable: 1 size: 639)
+0043.660 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SassphpFilter.php (exists: 1, is_readable: 1 size: 3715)
+0043.661 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/ScssphpFilter.php (exists: 1, is_readable: 1 size: 4044)
+0043.661 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SeparatorFilter.php (exists: 1, is_readable: 1 size: 1063)
+0043.662 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/SprocketsFilter.php (exists: 1, is_readable: 1 size: 3954)
+0043.662 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/StylusFilter.php (exists: 1, is_readable: 1 size: 3108)
+0043.662 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/TypeScriptFilter.php (exists: 1, is_readable: 1 size: 2265)
+0043.663 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyCssFilter.php (exists: 1, is_readable: 1 size: 3141)
+0043.665 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJs2Filter.php (exists: 1, is_readable: 1 size: 3740)
+0043.666 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJsFilter.php (exists: 1, is_readable: 1 size: 4129)
+0043.667 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/BaseCompressorFilter.php (exists: 1, is_readable: 1 size: 3116)
+0043.668 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/CssCompressorFilter.php (exists: 1, is_readable: 1 size: 689)
+0043.668 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/JsCompressorFilter.php (exists: 1, is_readable: 1 size: 1472)
+0043.669 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/FilterManager.php (exists: 1, is_readable: 1 size: 1486)
+0043.669 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/CssUtils.php (exists: 1, is_readable: 1 size: 4305)
+0043.670 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/FilesystemUtils.php (exists: 1, is_readable: 1 size: 2301)
+0043.671 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/LessUtils.php (exists: 1, is_readable: 1 size: 749)
+0043.671 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/SassUtils.php (exists: 1, is_readable: 1 size: 504)
+0043.672 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/TraversableString.php (exists: 1, is_readable: 1 size: 922)
+0043.672 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Util/VarUtils.php (exists: 1, is_readable: 1 size: 2229)
+0043.673 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/ValueSupplierInterface.php (exists: 1, is_readable: 1 size: 614)
+0043.673 (0) File: plugins/updraftplus/vendor/kriswallsmith/assetic/src/functions.php (exists: 1, is_readable: 1 size: 3241)
+0043.674 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/appveyor.yml (exists: 1, is_readable: 1 size: 817)
+0043.674 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/AUTHORS (exists: 1, is_readable: 1 size: 285)
+0043.675 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/BACKERS.md (exists: 1, is_readable: 1 size: 305)
+0043.675 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/composer.json (exists: 1, is_readable: 1 size: 2367)
+0043.675 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/LICENSE (exists: 1, is_readable: 1 size: 1100)
+0043.677 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php (exists: 1, is_readable: 1 size: 465)
+0043.678 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php (exists: 1, is_readable: 1 size: 6397)
+0043.679 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php (exists: 1, is_readable: 1 size: 103910)
+0043.679 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php (exists: 1, is_readable: 1 size: 29791)
+0043.681 (0) File: plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php (exists: 1, is_readable: 1 size: 75558)
+0043.682 (0) Error: makezip_addfiles returned false
+0043.690 (0) [Warning] Looked-for plugins zip (0) was not found (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-plugins.zip.tmp)
+0043.704 (0) Beginning creation of dump of themes (split every: 400 MB)
+0043.982 (0) Total entities for the zip file: 58 directories, 270 files (0 skipped as non-modified), 11.9 MB
+0045.380 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0046.494 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.3 MB, 199 (199) files added so far); re-opening (prior size: 0 KB)
+0046.803 (0) Zip: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip.tmp: 200 files added (on-disk size: 9221.6 KB)
+0048.451 (0) Created themes zip (0) - 10055 KB in 4.7 s (2121.2 KB/s) (sha1: 6e3a6e77ddbdd024e39452c0d96a1f6d99d85bba, sha256: 7a884f362cb0e5859b0299226f20676c5eacec318ba3a199add265ba8035504f)
+0048.461 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0048.463 (0) Looking for candidates to backup in: C:\wamp64\www\fictional_university/wp-content/uploads
+0048.465 (0) finding files: 2020: adding to list (1)
+0048.467 (0) finding files: wp-file-manager-pro: adding to list (2)
+0048.468 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0048.503 (0) Total entities for the zip file: 5 directories, 62 files (0 skipped as non-modified), 12 MB
+0049.379 (0) Created uploads zip (0) - 12281.2 KB in 0.9 s (13581.4 KB/s) (sha1: d5b14e69ca0afee2a496e56066e58928c86d8b36, sha256: fa416df0270799afbb4146929f9ec802a7348633af89fc9a98653dc58a1b2fc6)
+0049.387 (0) Beginning backup of other directories found in the content directory (index: 0)
+0049.388 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0049.389 (0) Looking for candidates to backup in: C:\wamp64\www\fictional_university/wp-content
+0049.391 (0) finding files: ewww: adding to list (1)
+0049.393 (0) finding files: index.php: adding to list (2)
+0049.395 (0) finding files: mu-plugins: adding to list (3)
+0049.397 (0) finding files: plugins: skipping: this is the plugins directory
+0049.398 (0) finding files: themes: skipping: this is the themes directory
+0049.400 (0) finding files: updraft: skipping: this is the updraft directory
+0049.402 (0) finding files: upgrade: skipping: excluded by options
+0049.404 (0) finding files: uploads: skipping: this is the uploads directory
+0049.454 (0) Total entities for the zip file: 2 directories, 2 files (0 skipped as non-modified), 0 MB
+0049.525 (0) Created others zip (0) - 0.9 KB in 0.1 s (8.3 KB/s) (sha1: 7c565478f0f4456cc21879e8b2409948044064e2, sha256: 37430acdabfff618a1407dec1646f9e380622d1fb9ef409d54c4304d6158bbd4)
+0049.542 (0) Saving backup status to database (elements: 6)
+0049.548 (0) Beginning creation of database dump (WordPress DB)
+0049.568 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0049.791 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n SET character_set_client = utf8mb4 ;\nCREATE TAB (truncated - 1069 bytes total)
+0049.811 (0) Binary mysqldump: error (code: 2)
+0049.975 (0) Table wp_options: Total expected rows (approximate): 252
+0049.996 (0) Table wp_options: Total rows added: 248 in 0.02 seconds
+0050.012 (0) Table wp_options: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_options.table.gz - 10.4 KB)
+0050.022 (0) Table wp_users: Total expected rows (approximate): 1
+0050.025 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0050.041 (0) Table wp_users: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_users.table.gz - 0.6 KB)
+0050.050 (0) Table wp_usermeta: Total expected rows (approximate): 24
+0050.055 (0) Table wp_usermeta: Total rows added: 24 in 0.00 seconds
+0050.066 (0) Table wp_usermeta: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_usermeta.table.gz - 1.1 KB)
+0050.075 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0050.078 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0050.089 (0) Table wp_commentmeta: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0050.098 (0) Table wp_comments: Total expected rows (approximate): 1
+0050.102 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0050.112 (0) Table wp_comments: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_comments.table.gz - 0.7 KB)
+0050.146 (0) Table wp_links: Total expected rows (approximate): 0
+0050.151 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0050.191 (0) Table wp_links: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_links.table.gz - 0.4 KB)
+0050.213 (0) Table wp_postmeta: Total expected rows (approximate): 431
+0050.244 (0) Table wp_postmeta: Total rows added: 431 in 0.03 seconds
+0050.295 (0) Table wp_postmeta: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_postmeta.table.gz - 5.7 KB)
+0050.313 (0) Table wp_posts: Total expected rows (approximate): 103
+0050.346 (0) Table wp_posts: Total rows added: 103 in 0.03 seconds
+0050.406 (0) Table wp_posts: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_posts.table.gz - 6.7 KB)
+0050.415 (0) Table wp_term_relationships: Total expected rows (approximate): 17
+0050.420 (0) Table wp_term_relationships: Total rows added: 17 in 0.00 seconds
+0050.430 (0) Table wp_term_relationships: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0050.440 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0050.445 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.00 seconds
+0050.464 (0) Table wp_term_taxonomy: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0050.494 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0050.498 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0050.512 (0) Table wp_termmeta: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_termmeta.table.gz - 0.4 KB)
+0050.522 (0) Table wp_terms: Total expected rows (approximate): 7
+0050.526 (0) Table wp_terms: Total rows added: 7 in 0.00 seconds
+0050.541 (0) Table wp_terms: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_terms.table.gz - 0.5 KB)
+0050.564 (0) Table wp_ewwwio_images: Total expected rows (approximate): 0
+0050.568 (0) Table wp_ewwwio_images: Total rows added: 0 in 0.00 seconds
+0050.585 (0) Table wp_ewwwio_images: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_ewwwio_images.table.gz - 0.5 KB)
+0050.607 (0) Table wp_ewwwio_queue: Total expected rows (approximate): 0
+0050.614 (0) Table wp_ewwwio_queue: Total rows added: 0 in 0.00 seconds
+0050.631 (0) Table wp_ewwwio_queue: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_ewwwio_queue.table.gz - 0.3 KB)
+0050.705 (0) Table wp_rtg_attachments: Total expected rows (approximate): 2
+0050.709 (0) Table wp_rtg_attachments: Total rows added: 2 in 0.00 seconds
+0050.729 (0) Table wp_rtg_attachments: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_rtg_attachments.table.gz - 0.4 KB)
+0050.747 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0050.753 (0) Table wp_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0050.761 (0) Table wp_wpfm_backup: finishing file (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_wpfm_backup.table.gz - 0.3 KB)
+0050.770 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_options.table.gz (1/16): adding to final database dump
+0050.775 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_users.table.gz (2/16): adding to final database dump
+0050.778 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_usermeta.table.gz (3/16): adding to final database dump
+0050.781 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_commentmeta.table.gz (4/16): adding to final database dump
+0050.784 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_comments.table.gz (5/16): adding to final database dump
+0050.786 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_links.table.gz (6/16): adding to final database dump
+0050.789 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_postmeta.table.gz (7/16): adding to final database dump
+0050.794 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_posts.table.gz (8/16): adding to final database dump
+0050.799 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_term_relationships.table.gz (9/16): adding to final database dump
+0050.802 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_term_taxonomy.table.gz (10/16): adding to final database dump
+0050.805 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_termmeta.table.gz (11/16): adding to final database dump
+0050.807 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_terms.table.gz (12/16): adding to final database dump
+0050.809 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_ewwwio_images.table.gz (13/16): adding to final database dump
+0050.812 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_ewwwio_queue.table.gz (14/16): adding to final database dump
+0050.814 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_rtg_attachments.table.gz (15/16): adding to final database dump
+0050.815 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db-table-wp_wpfm_backup.table.gz (16/16): adding to final database dump
+0050.819 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz: finished writing out complete database file (24 KB)
+0050.857 (0) Total database tables backed up: 16 (backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz, size: 26574, sha1: 1e7415893035df8c2b816cab59ae6ab4113d0c43, sha256: d45a7f88deb95364d2b46a1755879d06b9632595984f6f1163e371aeccb66db1)
+0050.869 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0050.871 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0050.873 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-others.zip: others: This file has not yet been successfully uploaded: will queue
+0050.875 (0) backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz: db: This file has not yet been successfully uploaded: will queue
+0050.877 (0) Saving backup history. Total backup size: 21.8 MB
+0050.881 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0050.887 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0050.889 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-729cf8c29fd56f10805aaa2768e49643)
+0058.217 (0) Google Drive: quota usage: used=1046.9 MB, total=15360 MB, available=14313.1 MB
+0058.219 (0) Google Drive: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0060.830 (0) Googledrive chunked upload: 10.2 % uploaded (1048576)
+0062.361 (0) Googledrive chunked upload: 20.4 % uploaded (2097152)
+0064.135 (0) Googledrive chunked upload: 30.6 % uploaded (3145728)
+0065.928 (0) Googledrive chunked upload: 40.7 % uploaded (4194304)
+0068.038 (0) Googledrive chunked upload: 50.9 % uploaded (5242880)
+0070.392 (0) Googledrive chunked upload: 61.1 % uploaded (6291456)
+0071.752 (0) Googledrive chunked upload: 71.3 % uploaded (7340032)
+0073.558 (0) Googledrive chunked upload: 81.5 % uploaded (8388608)
+0075.199 (0) Googledrive chunked upload: 91.7 % uploaded (9437184)
+0078.843 (0) Googledrive chunked upload: 100 % uploaded (9437184)
+0078.853 (0) Google Drive: OK: Archive backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip uploaded in 20.63 seconds
+0078.857 (0) Recording as successfully uploaded: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip
+0078.867 (0) Deleting local file: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-themes.zip: OK
+0079.394 (0) Google Drive: quota usage: used=1056.7 MB, total=15360 MB, available=14303.3 MB
+0079.399 (0) Google Drive: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-uploads.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0082.305 (0) Googledrive chunked upload: 8.3 % uploaded (1048576)
+0083.681 (0) Googledrive chunked upload: 16.7 % uploaded (2097152)
+0086.341 (0) Googledrive chunked upload: 25 % uploaded (3145728)
+0088.139 (0) Googledrive chunked upload: 33.4 % uploaded (4194304)
+0090.684 (0) Googledrive chunked upload: 41.7 % uploaded (5242880)
+0092.123 (0) Googledrive chunked upload: 50 % uploaded (6291456)
+0094.243 (0) Googledrive chunked upload: 58.4 % uploaded (7340032)
+0096.648 (0) Googledrive chunked upload: 66.7 % uploaded (8388608)
+0098.329 (0) Googledrive chunked upload: 75 % uploaded (9437184)
+0100.315 (0) Googledrive chunked upload: 83.4 % uploaded (10485760)
+0101.750 (0) Googledrive chunked upload: 91.7 % uploaded (11534336)
+0104.839 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+0104.869 (0) Google Drive: OK: Archive backup_2020-05-27-1717_Fictional_University_b56f3d23b701-uploads.zip uploaded in 25.47 seconds
+0104.878 (0) Recording as successfully uploaded: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-uploads.zip
+0104.903 (0) Deleting local file: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-uploads.zip: OK
+0106.397 (0) Google Drive: quota usage: used=1068.7 MB, total=15360 MB, available=14291.3 MB
+0106.408 (0) Google Drive: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-others.zip: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0108.486 (0) Googledrive chunked upload: 100 % uploaded
+0108.512 (0) Google Drive: OK: Archive backup_2020-05-27-1717_Fictional_University_b56f3d23b701-others.zip uploaded in 2.1 seconds
+0108.518 (0) Recording as successfully uploaded: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-others.zip
+0108.539 (0) Deleting local file: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-others.zip: OK
+0109.133 (0) Google Drive: quota usage: used=1068.7 MB, total=15360 MB, available=14291.3 MB
+0109.134 (0) Google Drive: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz: Attempting to upload to Google Drive (into folder id: 1L3mnLlVgnuInboPk2Lf-IMM-DwfZm1Fk)
+0112.493 (0) Googledrive chunked upload: 100 % uploaded
+0112.527 (0) Google Drive: OK: Archive backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz uploaded in 3.39 seconds
+0112.538 (0) Recording as successfully uploaded: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz
+0112.557 (0) Deleting local file: backup_2020-05-27-1717_Fictional_University_b56f3d23b701-db.gz: OK
+0112.571 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0112.575 (0) Number of backup sets in history: 3; groups (db): 1
+0112.577 (0) Examining (for databases) backup set with group_id=0, nonce=b56f3d23b701, datestamp=1590599832 (May 27 2020 17:17:12)
+0112.581 (0) This backup set is the backup set just made, so will not be deleted.
+0112.581 (0) Examining (for databases) backup set with group_id=0, nonce=0970cb278870, datestamp=1589876404 (May 19 2020 08:20:04)
+0112.582 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.586 (0) Examining (for databases) backup set with group_id=0, nonce=ab683730d2d9, datestamp=1589159636 (May 11 2020 01:13:56)
+0112.586 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.587 (0) Number of backup sets in history: 3; groups (files): 1
+0112.589 (0) Examining (for files) backup set with nonce=b56f3d23b701, datestamp=1590599832 (May 27 2020 17:17:12)
+0112.589 (0) This backup set is the backup set just made, so will not be deleted.
+0112.591 (0) This backup set is the backup set just made, so will not be deleted.
+0112.592 (0) This backup set is the backup set just made, so will not be deleted.
+0112.593 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.594 (0) Examining (for files) backup set with nonce=0970cb278870, datestamp=1589876404 (May 19 2020 08:20:04)
+0112.594 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.595 (0) Examining (for files) backup set with nonce=ab683730d2d9, datestamp=1589159636 (May 11 2020 01:13:56)
+0112.595 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0112.596 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0112.609 (0) Resume backup (b56f3d23b701, 0): finish run
+0112.615 (0) Decremented the semaphore (fd) by 1
+0112.620 (0) Semaphore (fd) unlocked
+0112.622 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0112.631 (0) No email will/can be sent - the user has not configured an email address.
+0112.636 (0) The backup apparently succeeded (with warnings) and is now complete

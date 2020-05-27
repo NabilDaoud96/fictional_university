@@ -34,9 +34,9 @@
 }
 
 .farbtastic .marker {
-  width: 17px;
-  height: 17px;
-  margin: -8px -8px 0 0;
-  overflow: hidden;
-  background: url(../images/marker.png) no-repeat;
+  width: 17px !important;
+  height: 17px !important;
+  margin: -8px -8px 0 0 !important;
+  overflow: hidden !important;
+  background: url(../images/marker.png) no-repeat !important;
 }
